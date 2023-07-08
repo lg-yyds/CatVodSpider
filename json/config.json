@@ -30,6 +30,15 @@
       "changeable": 1
     },
     {
+      "key": "csp_trj",
+      "name": "✈┃唐人┃影视",
+      "type": 3,
+      "api": "csp_Tangrenjie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "星星",
       "name": "星星",
       "type": 3,
