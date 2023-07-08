@@ -1,6 +1,6 @@
 {
   "spider": "https://raw.githubusercontent.com/lg-yyds/CatVodSpider/main/jar/custom_spider.jar;md5;6dc6afab6529c61d12fe9cd22aae56a3",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "https://api.maho.cc/random-img/pc.php",
   "sites": [
     {
       "key": "直播转点播",
