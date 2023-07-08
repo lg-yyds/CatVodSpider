@@ -1,5 +1,6 @@
 {
   "spider": "https://raw.githubusercontent.com/lg-yyds/CatVodSpider/main/jar/custom_spider.jar;md5;6dc6afab6529c61d12fe9cd22aae56a3",
+  "spider": "https://raw.githubusercontent.com/lg-yyds/t/main/panda.jar"
   "wallpaper": "https://api.maho.cc/random-img/pc.php",
   "sites": [
     {
